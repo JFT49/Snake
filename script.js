@@ -54,6 +54,7 @@ window.onload = function(){
         }
     };
     
+
     function gameOver(){
         ctx.save();
         ctx.font = "bold 70px sans-serif";
